@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+        {
+            "id":1,
+            "apellidos":"Garcia florez",
+            "nombre":"federico",
+            "username":"fede",
+            "password":"827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id":2,
+            "apellidos":"cardona alzate",
+            "nombre":"alexander",
+            "username":"alex123",
+            "password":"d4177dc752cddc204b22ec5798c4400e"
+        }
+
+    ]
+}
